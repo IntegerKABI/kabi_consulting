@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>KABI Consulting</title>
+  <rect width="64" height="64" rx="12" fill="#0f4d49"/>
+  <path d="M9 9h46v46H9z" fill="none" stroke="#c99731" stroke-width="3"/>
+  <path d="M22 16h8v16l14-16h10L38 34l17 14H43L30 37v11h-8z" fill="#ffffff"/>
+  <circle cx="50" cy="14" r="4" fill="#c99731"/>
+</svg>
