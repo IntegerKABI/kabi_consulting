@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://integerkabi.github.io/kabi_consulting/sitemap.xml
